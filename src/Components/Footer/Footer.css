@@ -1,0 +1,17 @@
+footer {
+  background-color: var(--header-bc);
+}
+@media (min-width: 992px) {
+  footer {
+    height: 70vh;
+  }
+}
+footer .img-footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+footer .facebook {
+  color: white;
+}

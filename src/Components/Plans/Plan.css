@@ -1,0 +1,53 @@
+.plan {
+  width: 250px;
+  min-height: 500px;
+  padding: 0;
+  z-index: 1;
+}
+.plan .box-title {
+  z-index: 2;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 120px;
+  border-width: 10px !important;
+  background-color: rgb(49, 167, 221) !important;
+}
+.plan .box-title .price {
+  margin-top: -10px;
+  margin-bottom: -23px;
+}
+.plan .box-body .box-up {
+  background-color: rgb(49, 167, 221);
+  /* background: linear-gradient(
+    360deg,
+    rgba(49, 167, 221, 1) 0%,
+    rgba(65, 189, 239, 1) 100%
+  ); */
+  width: 100%;
+  height: calc(500px / 2);
+  background-image: url("./World\ Map.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.plan .box-body .box-up img.server-img {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+}
+.plan .box-body .box-down ul {
+  width: fit-content;
+}
+.plan .box-body .box-down ul li span {
+  color: #3bd725;
+}
+.plan .box-body .box-down .button {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}

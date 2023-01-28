@@ -1,0 +1,56 @@
+.subnavbar {
+  height: 45px;
+  background-color: var(--header-bc);
+}
+
+.flag {
+  width: 25px;
+  margin-right: 10px;
+}
+
+p {
+  margin-top: 15px;
+  color: white;
+}
+
+.contact-us {
+  gap: 15px;
+}
+
+.phone {
+  gap: 15px;
+}
+
+.mail {
+  gap: 15px;
+}
+
+.subnavbar span {
+  margin-top: 0px;
+  color: white;
+}
+
+.language span {
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .subnavbar {
+    height: 100%;
+    flex-direction: column;
+  }
+  .contact-us {
+    flex-direction: column;
+  }
+  .mail {
+    margin-top: -25px;
+    margin-bottom: -10px;
+  }
+  p {
+    font-size: 0.8rem;
+    margin-top: 13px;
+  }
+  .language {
+    justify-content: center;
+  }
+}

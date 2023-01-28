@@ -1,0 +1,30 @@
+.header {
+  background-color: var(--header-bc);
+  min-height: 60vh;
+  background-image: url("./World\ Map.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header .cloud-image {
+  width: 100%;
+  bottom: 0;
+}
+
+.header .header-text .text {
+  font-size: 50px !important;
+}
+@media (min-width: 992px) {
+  .header .header-text .text-paragraph {
+    width: 500px;
+  }
+}
+@media (min-width: 992px) {
+  .header .header-text ul {
+    padding-bottom: 6rem !important;
+  }
+}
+.header .header-text ul li .done {
+  color: #3bd725;
+}

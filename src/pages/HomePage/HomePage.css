@@ -1,0 +1,10 @@
+.container-plan {
+  margin-top: 10rem;
+  margin-bottom: 7rem;
+}
+.contact .button {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
