@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Astro-Multipage-Template/static/css/main.ababef68.css",
-    "main.js": "/Astro-Multipage-Template/static/js/main.b7bd54b2.js",
+    "main.css": "/Astro-Multipage-Template/static/css/main.4b6cee42.css",
+    "main.js": "/Astro-Multipage-Template/static/js/main.608aa313.js",
     "static/js/787.e0e10106.chunk.js": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js",
+    "static/media/World Map.png": "/Astro-Multipage-Template/static/media/World Map.4337658eb1a03b920c8d.png",
+    "static/media/Cloud-Server.png": "/Astro-Multipage-Template/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
+    "static/media/American+Flag+vector+logo.webp": "/Astro-Multipage-Template/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
+    "static/media/Mid Cloud Footer.png": "/Astro-Multipage-Template/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
     "index.html": "/Astro-Multipage-Template/index.html",
-    "main.ababef68.css.map": "/Astro-Multipage-Template/static/css/main.ababef68.css.map",
-    "main.b7bd54b2.js.map": "/Astro-Multipage-Template/static/js/main.b7bd54b2.js.map",
+    "main.4b6cee42.css.map": "/Astro-Multipage-Template/static/css/main.4b6cee42.css.map",
+    "main.608aa313.js.map": "/Astro-Multipage-Template/static/js/main.608aa313.js.map",
     "787.e0e10106.chunk.js.map": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ababef68.css",
-    "static/js/main.b7bd54b2.js"
+    "static/css/main.4b6cee42.css",
+    "static/js/main.608aa313.js"
   ]
 }
