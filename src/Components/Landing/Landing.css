@@ -1,0 +1,10 @@
+.landing {
+  background-color: var(--header-bc);
+  height: 35vh;
+}
+
+.landing .landing-image {
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
