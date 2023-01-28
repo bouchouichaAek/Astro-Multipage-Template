@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8b57171.css",
-    "main.js": "/static/js/main.3fc1f9a9.js",
+    "main.css": "/static/css/main.c499df01.css",
+    "main.js": "/static/js/main.70944de6.js",
     "static/js/787.e0e10106.chunk.js": "/static/js/787.e0e10106.chunk.js",
     "static/media/World Map.png": "/static/media/World Map.4337658eb1a03b920c8d.png",
     "static/media/Cloud-Server.png": "/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
     "static/media/American+Flag+vector+logo.webp": "/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
     "static/media/Mid Cloud Footer.png": "/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
+    "static/media/landing-image.png": "/static/media/landing-image.730c3f002103466b386a.png",
     "index.html": "/index.html",
-    "main.e8b57171.css.map": "/static/css/main.e8b57171.css.map",
-    "main.3fc1f9a9.js.map": "/static/js/main.3fc1f9a9.js.map",
+    "main.c499df01.css.map": "/static/css/main.c499df01.css.map",
+    "main.70944de6.js.map": "/static/js/main.70944de6.js.map",
     "787.e0e10106.chunk.js.map": "/static/js/787.e0e10106.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8b57171.css",
-    "static/js/main.3fc1f9a9.js"
+    "static/css/main.c499df01.css",
+    "static/js/main.70944de6.js"
   ]
 }
