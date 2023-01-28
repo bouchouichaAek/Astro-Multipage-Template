@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Astro-Multipage-Template/static/css/main.4b6cee42.css",
-    "main.js": "/Astro-Multipage-Template/static/js/main.608aa313.js",
-    "static/js/787.e0e10106.chunk.js": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js",
-    "static/media/World Map.png": "/Astro-Multipage-Template/static/media/World Map.4337658eb1a03b920c8d.png",
-    "static/media/Cloud-Server.png": "/Astro-Multipage-Template/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
-    "static/media/American+Flag+vector+logo.webp": "/Astro-Multipage-Template/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
-    "static/media/Mid Cloud Footer.png": "/Astro-Multipage-Template/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
-    "index.html": "/Astro-Multipage-Template/index.html",
-    "main.4b6cee42.css.map": "/Astro-Multipage-Template/static/css/main.4b6cee42.css.map",
-    "main.608aa313.js.map": "/Astro-Multipage-Template/static/js/main.608aa313.js.map",
-    "787.e0e10106.chunk.js.map": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js.map"
+    "main.css": "/static/css/main.e8b57171.css",
+    "main.js": "/static/js/main.3fc1f9a9.js",
+    "static/js/787.e0e10106.chunk.js": "/static/js/787.e0e10106.chunk.js",
+    "static/media/World Map.png": "/static/media/World Map.4337658eb1a03b920c8d.png",
+    "static/media/Cloud-Server.png": "/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
+    "static/media/American+Flag+vector+logo.webp": "/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
+    "static/media/Mid Cloud Footer.png": "/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
+    "index.html": "/index.html",
+    "main.e8b57171.css.map": "/static/css/main.e8b57171.css.map",
+    "main.3fc1f9a9.js.map": "/static/js/main.3fc1f9a9.js.map",
+    "787.e0e10106.chunk.js.map": "/static/js/787.e0e10106.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b6cee42.css",
-    "static/js/main.608aa313.js"
+    "static/css/main.e8b57171.css",
+    "static/js/main.3fc1f9a9.js"
   ]
 }
