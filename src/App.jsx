@@ -17,10 +17,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route exact path="/" element={<HomePage />} />
-        <Route exact path="/services" element={<ServicesPage />} />
-        <Route exact path="/about" element={<AboutPage />} />
-        <Route exact path="/blog" element={<Blogger />} />
-        <Route exact path="/contact" element={<ContactPage />} />
+        <Route path="/services" element={<ServicesPage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/blog" element={<Blogger />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>
