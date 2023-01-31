@@ -42,3 +42,19 @@
   margin-left: 50%;
   transform: translateX(-50%);
 }
+
+@media (max-width: 425px) {
+  .contact-form form {
+    width: 100%;
+  }
+  .contact-form form .name {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .contact-form form .email-lable {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+}

@@ -7,9 +7,9 @@ class MailForm extends Component {
   render() {
     return (
       <div className="contact-form mb-5 mt-5">
-        <div class="container">
+        <div className="container">
           <form action="" className="mx-auto">
-            <div class="d-flex justify-content-start align-items-center">
+            <div className="d-flex justify-content-start align-items-center">
               <div className="name d-flex flex-column justify-content-center align-items-center">
                 <label htmlFor="" className="align-self-start">
                   Name <span> *</span>

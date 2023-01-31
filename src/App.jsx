@@ -27,8 +27,3 @@ function App() {
   );
 }
 export default App;
-/*homepage": "https://bouchouichaAek.github.io/Astro-Multipage-Template/",
-
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-*/
