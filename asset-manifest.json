@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7c62f95.css",
-    "main.js": "/static/js/main.735eea24.js",
-    "static/js/787.e0e10106.chunk.js": "/static/js/787.e0e10106.chunk.js",
-    "static/media/World Map.png": "/static/media/World Map.4337658eb1a03b920c8d.png",
-    "static/media/Cloud-Server.png": "/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
-    "static/media/American+Flag+vector+logo.webp": "/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
-    "static/media/Mid Cloud Footer.png": "/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
-    "static/media/landing-image.png": "/static/media/landing-image.730c3f002103466b386a.png",
-    "index.html": "/index.html",
-    "main.d7c62f95.css.map": "/static/css/main.d7c62f95.css.map",
-    "main.735eea24.js.map": "/static/js/main.735eea24.js.map",
-    "787.e0e10106.chunk.js.map": "/static/js/787.e0e10106.chunk.js.map"
+    "main.css": "/Astro-Multipage-Template/static/css/main.a4d65a75.css",
+    "main.js": "/Astro-Multipage-Template/static/js/main.c619ce0c.js",
+    "static/js/787.e0e10106.chunk.js": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js",
+    "static/media/World Map.png": "/Astro-Multipage-Template/static/media/World Map.4337658eb1a03b920c8d.png",
+    "static/media/Cloud-Server.png": "/Astro-Multipage-Template/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
+    "static/media/American+Flag+vector+logo.webp": "/Astro-Multipage-Template/static/media/American+Flag+vector+logo.4fb3e5a5898f5ba7555e.webp",
+    "static/media/Mid Cloud Footer.png": "/Astro-Multipage-Template/static/media/Mid Cloud Footer.730c3f002103466b386a.png",
+    "static/media/landing-image.png": "/Astro-Multipage-Template/static/media/landing-image.730c3f002103466b386a.png",
+    "index.html": "/Astro-Multipage-Template/index.html",
+    "main.a4d65a75.css.map": "/Astro-Multipage-Template/static/css/main.a4d65a75.css.map",
+    "main.c619ce0c.js.map": "/Astro-Multipage-Template/static/js/main.c619ce0c.js.map",
+    "787.e0e10106.chunk.js.map": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7c62f95.css",
-    "static/js/main.735eea24.js"
+    "static/css/main.a4d65a75.css",
+    "static/js/main.c619ce0c.js"
   ]
 }
