@@ -16,11 +16,17 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/services" element={<ServicesPage />} />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/blog" element={<Blogger />} />
-        <Route path="/contact" element={<ContactPage />} />
+        <Route path="Astro-Multipage-Template/" element={<HomePage />} />
+        <Route
+          path="Astro-Multipage-Template/services"
+          element={<ServicesPage />}
+        />
+        <Route path="Astro-Multipage-Template/about" element={<AboutPage />} />
+        <Route path="Astro-Multipage-Template/blog" element={<Blogger />} />
+        <Route
+          path="Astro-Multipage-Template/contact"
+          element={<ContactPage />}
+        />
       </Routes>
       <Footer />
     </BrowserRouter>
