@@ -16,15 +16,24 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="Astro-Multipage-Template/" element={<HomePage />} />
         <Route
-          path="Astro-Multipage-Template/services"
+          path="bouchouichaAek.github.io/Astro-Multipage-Template/Astro-Multipage-Template/"
+          element={<HomePage />}
+        />
+        <Route
+          path="bouchouichaAek.github.io/Astro-Multipage-Template//Astro-Multipage-Template//services"
           element={<ServicesPage />}
         />
-        <Route path="Astro-Multipage-Template/about" element={<AboutPage />} />
-        <Route path="Astro-Multipage-Template/blog" element={<Blogger />} />
         <Route
-          path="Astro-Multipage-Template/contact"
+          path="bouchouichaAek.github.io/Astro-Multipage-Template/about"
+          element={<AboutPage />}
+        />
+        <Route
+          path="bouchouichaAek.github.io/Astro-Multipage-Template/blog"
+          element={<Blogger />}
+        />
+        <Route
+          path="bouchouichaAek.github.io/Astro-Multipage-Template/contact"
           element={<ContactPage />}
         />
       </Routes>
