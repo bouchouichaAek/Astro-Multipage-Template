@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Astro-Multipage-Template/static/css/main.296bf48a.css",
-    "main.js": "/Astro-Multipage-Template/static/js/main.046996aa.js",
+    "main.js": "/Astro-Multipage-Template/static/js/main.fa0ae13b.js",
     "static/js/787.e0e10106.chunk.js": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js",
     "static/media/World Map.png": "/Astro-Multipage-Template/static/media/World Map.4337658eb1a03b920c8d.png",
     "static/media/Cloud-Server.png": "/Astro-Multipage-Template/static/media/Cloud-Server.e7851ccef64ce0d28221.png",
@@ -10,11 +10,11 @@
     "static/media/landing-image.png": "/Astro-Multipage-Template/static/media/landing-image.730c3f002103466b386a.png",
     "index.html": "/Astro-Multipage-Template/index.html",
     "main.296bf48a.css.map": "/Astro-Multipage-Template/static/css/main.296bf48a.css.map",
-    "main.046996aa.js.map": "/Astro-Multipage-Template/static/js/main.046996aa.js.map",
+    "main.fa0ae13b.js.map": "/Astro-Multipage-Template/static/js/main.fa0ae13b.js.map",
     "787.e0e10106.chunk.js.map": "/Astro-Multipage-Template/static/js/787.e0e10106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.296bf48a.css",
-    "static/js/main.046996aa.js"
+    "static/js/main.fa0ae13b.js"
   ]
 }
