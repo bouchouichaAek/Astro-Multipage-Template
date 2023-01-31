@@ -1,0 +1,10 @@
+.single-blog span {
+  color: rgb(49, 167, 221);
+}
+.single-blog .info {
+  margin-top: 0;
+}
+
+.single-blog .blog-img {
+  width: 100%;
+}

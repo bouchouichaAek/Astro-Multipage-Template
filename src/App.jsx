@@ -7,6 +7,9 @@ import HomePage from "./pages/HomePage/HomePage";
 import Footer from "./Components/Footer/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ServicesPage from "./pages/ServicesPage/ServicesPage";
+import AboutPage from "./pages/AboutPage/AboutPage";
+import Blogger from "./pages/Blogger/Blogger";
+import ContactPage from "./pages/ContactPage/ContactPage";
 
 function App() {
   return (
@@ -15,10 +18,17 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/services" element={<ServicesPage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/blog" element={<Blogger />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>
   );
 }
-
 export default App;
+/*homepage": "https://bouchouichaAek.github.io/Astro-Multipage-Template/",
+
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+*/

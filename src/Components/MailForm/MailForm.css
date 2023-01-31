@@ -1,0 +1,44 @@
+.contact-form form {
+  width: 600px;
+}
+.contact-form form div {
+  flex-wrap: wrap;
+}
+.contact-form form .name {
+  width: calc(50% - 10px);
+  margin-right: 10px;
+}
+.contact-form form .name input[type="text"] {
+  width: 100%;
+  outline: none;
+}
+.contact-form form .email-lable {
+  width: calc(50% - 10px);
+  margin-left: 10px;
+}
+.contact-form form .email-lable input[type="email"] {
+  width: 100%;
+  outline: none;
+}
+.contact-form .message {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.contact-form .message textarea {
+  width: 100%;
+  background-color: #edf1f5;
+  border: none;
+  outline: none;
+  resize: none;
+}
+.contact-form input {
+  background-color: #edf1f5;
+  border: none;
+}
+.contact-form form span {
+  color: #00c7fb;
+}
+.contact-form .button {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}

@@ -1,0 +1,19 @@
+.service-text ul .done,
+.service-text-two ul .done {
+  color: #3bd725;
+}
+@media (min-width: 992px) {
+  .box-service .service-img {
+    margin-left: 150px;
+  }
+}
+@media (min-width: 992px) {
+  .box-service .service-img-two {
+    margin-right: 150px;
+  }
+}
+@media (min-width: 992px) {
+  .box-service .service-text-two {
+    margin-left: 250px;
+  }
+}

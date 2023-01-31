@@ -1,0 +1,8 @@
+.office-info span {
+  background-color: #00c7fb;
+}
+.office-info .p-addres,
+.office-info .p-mail,
+.office-info .p-phone {
+  margin-bottom: -15px;
+}
