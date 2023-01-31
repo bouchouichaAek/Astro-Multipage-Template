@@ -17,23 +17,23 @@ function App() {
       <Navbar />
       <Routes>
         <Route
-          path="bouchouichaAek.github.io/Astro-Multipage-Template/Astro-Multipage-Template/"
+          path="/bouchouichaAek.github.io/Astro-Multipage-Template/Astro-Multipage-Template/"
           element={<HomePage />}
         />
         <Route
-          path="bouchouichaAek.github.io/Astro-Multipage-Template//Astro-Multipage-Template//services"
+          path="/bouchouichaAek.github.io/Astro-Multipage-Template/Astro-Multipage-Template//services"
           element={<ServicesPage />}
         />
         <Route
-          path="bouchouichaAek.github.io/Astro-Multipage-Template/about"
+          path="/bouchouichaAek.github.io/Astro-Multipage-Template/about"
           element={<AboutPage />}
         />
         <Route
-          path="bouchouichaAek.github.io/Astro-Multipage-Template/blog"
+          path="/bouchouichaAek.github.io/Astro-Multipage-Template/blog"
           element={<Blogger />}
         />
         <Route
-          path="bouchouichaAek.github.io/Astro-Multipage-Template/contact"
+          path="/bouchouichaAek.github.io/Astro-Multipage-Template/contact"
           element={<ContactPage />}
         />
       </Routes>
